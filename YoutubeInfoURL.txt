@@ -1,0 +1,23 @@
+아래 URL에 Youtube URL을 url 쿼리 스트링에 넣으면
+
+https://www.youtube.com/watch?v=VBLcYJ7C4F0
+
+
+https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=VBLcYJ7C4F0
+
+JSON 형태로 Return 해줍니다.
+
+{
+  "width":480,
+  "thumbnail_height":360,
+  "provider_url":"https://www.youtube.com/",
+  "author_name":"Netflix",
+  "html":"<iframe width=\"480\" height=\"270\" src=\"https://www.youtube.com/embed/VBLcYJ7C4F0?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+  "height":270,
+  "version":"1.0",
+  "type":"video",
+  "thumbnail_width":480,
+  "thumbnail_url":"https://i.ytimg.com/vi/VBLcYJ7C4F0/hqdefault.jpg",
+  "title":"Narcos: Mexico | Official Trailer [HD] | Netflix",
+  "provider_name":"YouTube","author_url":"https://www.youtube.com/user/NewOnNetflix"
+}
