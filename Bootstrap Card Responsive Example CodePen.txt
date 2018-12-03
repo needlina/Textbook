@@ -2,6 +2,8 @@ Bootstrap Card Responsive Example CodePen
 
 https://codepen.io/migli/pen/OQVRMw
 
+https://www.cssportal.com/scss-to-css/ -> scss to css 컴파일러 
+
 브라우저 창 크기에 따라 row 갯수 변화
 
 <style>
