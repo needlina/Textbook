@@ -2,6 +2,9 @@
 
 https://www.youtube.com/watch?v=VBLcYJ7C4F0
 
+Youtube Channel List API
+https://developers.google.com/youtube/v3/docs/search/list?
+
 
 https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=VBLcYJ7C4F0
 
