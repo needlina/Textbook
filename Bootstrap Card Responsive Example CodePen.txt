@@ -1,0 +1,108 @@
+Bootstrap Card Responsive Example CodePen
+
+https://codepen.io/migli/pen/OQVRMw
+
+브라우저 창 크기에 따라 row 갯수 변화
+
+<style>
+@media (min-width: 0) {
+  .card-deck .card {
+    flex: 0 0 calc(100% - 30px);
+  }
+}
+@media (min-width: 576px) {
+  .card-deck .card {
+    flex: 0 0 calc(50% - 30px);
+  }
+}
+@media (min-width: 768px) {
+  .card-deck .card {
+    flex: 0 0 calc(33.33333% - 30px);
+  }
+}
+@media (min-width: 992px) {
+  .card-deck .card {
+    flex: 0 0 calc(25% - 30px);
+  }
+}
+@media (min-width: 1200px) {
+  .card-deck .card {
+    flex: 0 0 calc(20% - 30px);
+  }
+}
+
+</style>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>My First Bootstrap Page</h1>
+  <p>Resize this responsive page to see the effect!</p> 
+</div>
+  
+<div class="container">
+	<div class="card-deck">
+		<div class="card my-3">
+			<img src="http://placehold.it/560x560" class="card-img-top">
+			<div class="card-body">
+				<p class="card-title">Title</>
+			</div>
+		</div>
+		<div class="card my-3">
+			<img src="http://placehold.it/560x560" class="card-img-top">
+			<div class="card-body">
+				<p class="card-title">Title</>
+			</div>
+		</div>
+		<div class="card my-3">
+			<img src="http://placehold.it/560x560" class="card-img-top">
+			<div class="card-body">
+				<p class="card-title">Title</>
+			</div>
+		</div>
+		<div class="card my-3">
+			<img src="http://placehold.it/560x560" class="card-img-top">
+			<div class="card-body">
+				<p class="card-title">Title</>
+			</div>
+		</div>
+		<div class="card my-3">
+			<img src="http://placehold.it/560x560" class="card-img-top">
+			<div class="card-body">
+				<p class="card-title">Title</>
+			</div>
+		</div>
+		<div class="card my-3">
+			<img src="http://placehold.it/560x560" class="card-img-top">
+			<div class="card-body">
+				<p class="card-title">Title</>
+			</div>
+		</div>
+		<div class="card my-3">
+			<img src="http://placehold.it/560x560" class="card-img-top">
+			<div class="card-body">
+				<p class="card-title">Title</>
+			</div>
+		</div>
+		<div class="card my-3">
+			<img src="http://placehold.it/560x560" class="card-img-top">
+			<div class="card-body">
+				<p class="card-title">Title</>
+			</div>
+		</div>
+		<div class="card my-3">
+			<img src="http://placehold.it/560x560" class="card-img-top">
+			<div class="card-body">
+				<p class="card-title">Title</>
+			</div>
+		</div>
+		<div class="card my-3">
+			<img src="http://placehold.it/560x560" class="card-img-top">
+			<div class="card-body">
+				<p class="card-title">Title</>
+			</div>
+		</div>
+	</div>
+</div>
+
+</body>
