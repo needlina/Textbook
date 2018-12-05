@@ -1,0 +1,29 @@
+
+.item {
+    position:relative;
+    padding-top:20px;
+    display:inline-block;
+}
+.notify-badge{
+    position: absolute;
+    left:-20px;
+    top:-20px;
+    padding:5px 10px;
+    background:url("https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-512.png") 
+}
+</style>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>My First Bootstrap Page</h1>
+  <p>Resize this responsive page to see the effect!</p> 
+</div>
+  
+<div class="container">
+  <div class="card-deck">
+
+        <div class="card my-3">
+        	<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-512.png" class="notify-badge" style="width:70px;height:50px" />
+            <a href="https://www.youtube.com/watch?v=iJJSh-eEdRk"><img src="https://i.ytimg.com/vi/iJJSh-eEdRk/hqdefault.jpg" class="card-img-top"></a>
+            <div class="card-body">
