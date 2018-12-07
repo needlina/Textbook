@@ -1,0 +1,10 @@
+- Visual Studio 2017
+  : Licence Key
+- Openshift CLI (port-forwarding 할때 필요)
+  : https://github.com/openshift/origin/releases/download/v3.11.0/openshift-origin-client-tools-v3.11.0-0cbc58b-windows.zip
+- Git (Git Extension에 필요)
+  : https://git-scm.com/download/win
+- GitExtension 2.47 (한국어 포함 버전..)
+  : https://sourceforge.net/projects/gitextensions/files/2.47/
+- HeidiSQL (MySql GUI 툴)
+  : https://www.heidisql.com/installers/HeidiSQL_9.5.0.5196_Setup.exe
