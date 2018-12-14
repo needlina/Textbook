@@ -1,0 +1,6 @@
+Npoco Fetch Parameter string format
+
+using (var db = new NPoco.Database(DatabaseConnection.Connection, NPoco.DatabaseType.SQLite))
+            {
+                gcl = db.Fetch<GSAKWrapper.MapProviders.GeocachePoco>(string.Format("select Code, Name, CacheType, Found, IsOwner, Latitude, Longitude, kAfterLat, kAfterLon from Caches inner join {0} on Caches.Code={0}.gccode left join Corrected on Caches.Code=Corrected.kCode", ActionInputTableName));
+            }
