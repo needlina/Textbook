@@ -1,0 +1,10 @@
+외부 인증 사용하기 위해서는.. SSL 인증 사이트로 접근해야함
+
+
+Let's Encrypt SSL 사용 가이드
+
+https://steemit.com/kr-dev/@nhj12311/let-s-encrypt-https-ssl
+http://mixedcode.com/Article/Index?aidx=6837
+
+
+Openshift에서 SSL 처리 가능여부 확인해야함.
