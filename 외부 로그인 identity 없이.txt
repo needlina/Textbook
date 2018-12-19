@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/48120508/net-core-external-authentication-without-asp-net-identity
