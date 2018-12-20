@@ -1,0 +1,10 @@
+2018/12/20 작성
+
+1. 로그인
+ - 구글, Facebook, Twitter API 로그인
+ - 일반 회원가입 및 로그인
+
+2. 게시판 , 댓글 시스템
+ - 게시판 디자인 (PC/Mobile)
+ - 에디터 내 이미지 업로드 기능 구현 (별도 이미지 Storage API 생성 - Dropbox, OneDrive 등)
+ 
