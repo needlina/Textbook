@@ -2,7 +2,7 @@
 
 1. 로그인
  - 구글, Facebook, Twitter API 로그인
- - 일반 회원가입 및 로그인
+ - 일반 회원가입 및 로그인 (회원 가입할때 Captcha - https://github.com/fabianwennink/IconCaptcha-Plugin-ASP.NET)
 
 2. 게시판 , 댓글 시스템
  - 게시판 디자인 (PC/Mobile)
