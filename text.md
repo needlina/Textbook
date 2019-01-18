@@ -9,4 +9,4 @@
 * Openshift CLI - https://github.com/openshift/origin/releases/download/v3.11.0/openshift-origin-client-tools-v3.11.0-0cbc58b-windows.zip
 
 ## 소스 다운로드
-![OpenShiftBuild](https://www.dropbox.com/s/b8xp6hbxhnc6bak/editbuildbranch-2.PNG?dl=1)
+![Alt](https://github.com/needlina/Textbook/blob/master/Images/editbuildbranch-1.PNG)
