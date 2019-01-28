@@ -10,7 +10,7 @@
 
 ## 소스 다운로드
 
-### 1. GitHub 사이트 접속하여 Link를 복사한다.
+### 1. GitHub 사이트 접속하여 Link를 복사한다. https://github.com/needlina/ASPCore.AllThatBTS
 ![그림 1](https://github.com/needlina/Textbook/blob/master/Images/20190119_200549.png)
 
 ### 2. Git Extension에 그림과 같이 입력 후 Local Repository를 생성한다.
@@ -42,20 +42,20 @@
 ## 소스 Commit 및 빌드 방법
 
 ### 1. 소스 수정 후 Commit 버튼을 누르면 대화창이 뜨는데 소스 확인 후 stage로 이동
-### (개발은 ReadmMe상 Dev Branch로 진행하는데, 자신의 브랜치 생성하여 개발이 가능)
+### (개발은 ReadMe상 Dev Branch로 진행하는데, 자신의 브랜치 생성하여 개발이 가능)
 ![그림 8](https://github.com/needlina/Textbook/blob/master/Images/20190119_214004.png)
 
 ### 2. Commit하면 아래와 같이 Commit 완료
 ![그림 9](https://github.com/needlina/Textbook/blob/master/Images/20190119_200817.png)
 
-<span style="color:red">**주의사항**</span>
+:sparkles:**주의사항**
 **appsetting.json 파일은 commit시 제외한다.**  
 **로컬 개발시에는 127.0.0.1 (port-forwarded)로 설정**  
 **운영 빌드시에는 172.30.77.240으로 설정되어야 배포시 DB 접근이 가능하다.**  
 ![그림 10](https://github.com/needlina/Textbook/blob/master/Images/20190119_201849.png)
 
 
-### 3. 로컬 환경에서 정상동작 확인 후 Openshift 빌드한다.
+### 3. 로컬 환경에서 정상동작 확인 후 start build 클릭한다.
 ![그림 11](https://github.com/needlina/Textbook/blob/master/Images/20190119_214751.png)
 
 ### 3-1. Branch를 변경하여 빌드하려면 아래와 같이 세팅한다.  
