@@ -1,0 +1,3 @@
+Custom Validation Check Logic
+
+https://exceptionnotfound.net/custom-validation-in-asp-net-web-api-with-fluentvalidation/
